@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class LinkedList_Example {
 
 	
-	public static void removeHead() {
+	public static void removenthHead() {
 		Scanner sc=new Scanner(System.in); 
 		System.out.println("Linked List example");
 		LinkedList<Integer> link_list=new LinkedList<>();

@@ -22,7 +22,7 @@ public class MainClas {
 			choice=sc.nextInt();
 			switch (choice) {
 			case 1:					
-				LinkedList_Example.removeHead();
+				LinkedList_Example.removenthHead();
 				break;
 
 			case 2:
